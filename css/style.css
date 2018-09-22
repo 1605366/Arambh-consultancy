@@ -1,0 +1,90 @@
+.container-fluid{
+    padding: 0;
+}
+
+.navbar-brand{
+    font-family: 'Cinzel', serif;
+    font-size: 2em;
+}
+
+.nav-item{
+    float: right;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1.1em;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    background-color: #3742fa;
+    border-radius: 10px;
+}
+
+.carousel-caption>h3{
+    background-color:dodgerblue;
+    font-size: 3em;
+}
+
+.box{
+    background-color: #182C61;
+    border-radius: 4000px;
+    padding: 30px;
+    color: white;
+}
+
+
+.admission{
+    text-align: center;
+    padding-top: 20px
+}
+.divide-lg{
+    height: 50px;
+}
+
+.divide-color{
+    background-color: dimgray;
+    height: 1px;
+}
+.divide-sm{
+    height: 20px;
+}
+
+.dots{
+    text-decoration: none;
+}
+
+.service-item{
+    
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    padding: 10px 30px 10px 30px;
+    background-color: #3B3B98;
+    margin-top: 15px;
+    border-radius: 10px;
+    color: white;
+        
+    
+}
+
+.team-img{
+    border-radius: 500px;
+}
+
+.footer{
+    background-color: dodgerblue;
+    color: white;
+    text-align: left;
+
+    
+}
+.footer-row{
+    padding: 70px 50px 20px 50px;
+}
+
+.last-footer{
+    background-color: #182C61;
+    padding: 20px;
+    color: white;
+}
